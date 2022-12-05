@@ -1,1 +1,4 @@
-# TH_GIT
+#INTRODUCING MYSELF
+Name: Vu Thi Trang
+Class: NMIT3_TH1
+StudentID: 22010386
